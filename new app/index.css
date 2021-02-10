@@ -1,0 +1,57 @@
+* {
+  font-size: 16px;
+}
+.container {
+  margin: 1.5rem;
+}
+.col1 {
+  padding: 1rem;
+}
+.col2 {
+  padding: 1rem;
+  margin-top: 2rem;
+}
+.form-group {
+  margin-top: 0.5rem;
+}
+.table {
+  width: 100%;
+}
+tbody tr {
+  background-color: #ff33cc;
+}
+/*tbody tr:nth-child(even) {
+  background-color: #ff33cc;
+}*/
+.added {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.row {
+}
+.button {
+  margin-top: 1rem;
+}
+input {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+.label {
+  text-transform: uppercase;
+}
+/*
+classes for warning and error mesaages
+*/
+.warning {
+  color: blue;
+  font-size: 1.5rem;
+}
+.success {
+  color: green;
+  font-size: 1.5rem;
+}
+.danger {
+  color: red;
+  font-size: 1.5rem;
+}
